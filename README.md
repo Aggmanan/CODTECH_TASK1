@@ -33,4 +33,5 @@
 3. Software Used: ModelSim and VIVADO
    
 **Future Use**
+
 This design can be further expanded for more complex sequence detection by adding more states or transitioning conditions. It can be integrated into digital systems where sequence recognition is required, such as communication protocols, error detection, or control systems.
