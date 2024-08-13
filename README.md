@@ -1,7 +1,11 @@
 **Name**: MANAN AGGARWAL
+
 **Company**: CODTECH IT SOLUTIONS
+
 **ID**: CT8VLSI1387
+
 **Domain**: VLSI
+
 **Duration**: JUNE TO AUGUST 2025
 
 **Overview of the Project** 
